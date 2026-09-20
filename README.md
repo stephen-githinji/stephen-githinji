@@ -1,5 +1,5 @@
 ## About Me 💥
-Hi there 👋, I'm Stephen
+Hi there 👋, I'm Stephen<br>
 I'm a Data Engineer focused on designing data architectures,
 building reliable data pipelines, and developing data-driven
 solutions across various domains.
