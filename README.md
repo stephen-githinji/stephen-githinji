@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me 💥
+Hi there 👋, I'm Stephen
+I'm a Data Engineer focused on designing data architectures,
+building reliable data pipelines, and developing data-driven
+solutions across various dormains.
 
 <!--
 **stephen-gitihinji/stephen-gitihinji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
