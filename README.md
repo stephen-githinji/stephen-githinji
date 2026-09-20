@@ -12,9 +12,10 @@ solutions across various domains.
 - Integrate cloud services to orchestrate, automate, and manage pipelines.
 
 ## Tech Stack
-<p>
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
 ### Programming Languages
 ### Data Engineering
 ### Databases
