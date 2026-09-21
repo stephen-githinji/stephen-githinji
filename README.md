@@ -1,8 +1,6 @@
 ## 💥 About Me 
 Hi there 👋 <br/>
-I'm a Data Engineer focused on designing data architectures,
-building reliable data pipelines, and developing data-driven
-solutions across various domains.
+I'm a Data Engineer focused on designing scalable data models, building reliable data pipelines, and developing data-driven solutions across various domains.
 ## :man_technologist: What I Do
 - Build and maintain ETL and ELT pipelines.
 - Design and implement batch and real-time data processing workflows.
